@@ -1,2 +1,2 @@
 # ProyectoTerminal
-Prometheus Cancun App web 
+Prometheus Cancun Web App
